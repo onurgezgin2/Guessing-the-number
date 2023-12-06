@@ -9,4 +9,4 @@ def guess(x):
         elif guess>random_num:
             print('Sorry,guess again.Too high.')
     print(f'yay,congrats you have guess the number {random_num} correctly!!')
-guess(10)
+guess(100)
